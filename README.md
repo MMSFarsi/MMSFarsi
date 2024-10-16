@@ -4,7 +4,10 @@
 🌐 Exploring new web technologies and frameworks.   
 📫 How to reach me: [https://www.linkedin.com/in/mir-md-salman-farsi-255b6b317/]  
 
-### 🛠️ Skills & Technologies  
-- HTML, CSS, JavaScript  
-- React  
-- Git & GitHub  
+#### Programming Languages:  
+- C 
+- JavaScript  
+
+#### Web Development:  
+- HTML, CSS  
+- React   
