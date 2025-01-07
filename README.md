@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">Hello I am a full stack developer from Bangladesh. I make beautiful full stack website.</p>
+<p align="left">
+
+Hello, I am a full-stack developer from Bangladesh.
+I specialize in creating beautiful and functional full-stack websites tailored to meet client needs. My expertise includes both front-end and back-end development, ensuring seamless user experiences and robust performance. I am passionate about coding, problem-solving, and delivering high-quality projects on time.
+</p>
 
 ###
 
