@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning SQL<br>🎯 Goals: Became senior developer by 2025<br>🎲 Fun fact: I like to play Games</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning NextJs & Redux<br>🎯 Goals: Became senior developer by 2025<br>🎲 Fun fact: I like to play Games</p>
 
 ###
 
